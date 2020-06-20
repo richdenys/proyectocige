@@ -1,0 +1,59 @@
+{
+        "cliente1":{
+            "img": "./src/img/slider/slider1.svg",
+             "alt"  : "comentario de slide1"
+            },
+        "cliente2":{
+            "img": "./src/img/slider/slider2.svg",
+            "alt"  : "comentario de slide1"
+            },
+        "cliente3":{
+            "img": "./src/img/slider/slider3.svg",
+            "alt"  : "comentario de slide1"
+            },
+        "cliente4":{
+            "img": "./src/img/slider/slider4.svg",
+            "alt"  : "comentario de slide1"
+        },
+        "cliente5":{
+           "img": "./src/img/slider/slider1.svg",
+           "alt"  : "comentario de slide1"
+          },
+		 "cliente6":{
+           "img": "./src/img/slider/slider1.svg",
+           "alt"  : "comentario de slide1"
+          },
+       "cliente7":{
+             "img": "./src/img/slider/slider1.svg",
+             "alt"  : "comentario de slide1"
+            },
+       "cliente8":{
+               "img": "./src/img/slider/slider1.svg",
+               "alt"  : "comentario de slide1"
+              },
+       "cliente9":{
+                 "img": "./src/img/slider/slider1.svg",
+                 "alt"  : "comentario de slide1"
+                },
+      "cliente10":{
+                   "img": "./src/img/slider/slider1.svg",
+                   "alt"  : "comentario de slide1"
+                  },
+      "cliente11":{
+                  "img": "./src/img/slider/slider1.svg",
+                  "alt"  : "comentario de slide1"
+                           },
+      "cliente12":{
+                  "img": "./src/img/slider/slider1.svg",
+                  "alt"  : "comentario de slide1"
+                   },
+      "cliente13":{
+                  "img": "./src/img/slider/slider1.svg",
+                  "alt"  : "comentario de slide1"
+                  },
+      "cliente14":{
+                  "img": "./src/img/slider/slider1.svg",
+                  "alt"  : "comentario de slide1"
+                  }
+           
+}

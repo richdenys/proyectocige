@@ -1,0 +1,18 @@
+{
+    "slide1":{
+        "image": "./src/img/slider/slider1.svg",
+        "alt"  : "comentario de slide1"
+    },
+    "slide2":{
+        "image": "./src/img/slider/slider2.svg",
+        "alt"  : "comentario de slide2"
+    },
+    "slide3":{
+        "image": "./src/img/slider/slider3.svg",
+        "alt"  : "comentario de slide3"
+    },
+    "slide4":{
+        "image": "./src/img/slider/slider4.svg",
+        "alt"  : "comentario de slide4"
+    }
+}
