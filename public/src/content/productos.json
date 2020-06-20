@@ -1,0 +1,130 @@
+{
+    "item1": {
+        "title"      : "Inventario",
+        "img"        : "./src/img/productos/inventario.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El módulo de almacén controla los saldos de stock y los actualiza en tiempo real luego de cada operación de entrada y salida de inventario.Con CIGE, Usted puede obtener una visión general y actualizada en línea, obteniendo beneficios de negocio desde el primer momento.",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "Es multialmacenes para mantener y controlar el stock de los productos en cada uno de ellos.",
+            "Permite controlar los inventarios a través del uso de múltiples sucursales.",
+            "Cuenta con clasificación de artículos por grupo, familia, línea, marca y modelo.",
+            "El usuario puede definir los tipos de movimiento de entrada y salida de almacén y definir los datos que deben registrarse por cada movimiento.",
+            "Control de stock mínimos, con mensajes de alerta que advierten el punto de reposición.",
+            "Proceso de valorización de almacenes en línea con el método promedio.",
+            "El coste del movimiento del almacén permite mostrar los costos del almacén por cuenta, artículo, familia, modelo, etc.",
+            "Emisión del libro inventario permanente en unidades físicas: Formato 12.1.",
+            "Emisión del libro inventario permanente en unidades valorizado: Formato 13.1.",
+            "Existen consultas y reportes resumidos y detallados del almacén que permiten al usuario tener información de los stocks en línea."
+        ]
+    },
+    "item2": {
+        "title"      : "Logística",
+        "img"        : "./src/img/productos/logistica.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El módulo de logística es una herramienta que sirve para administrar y gestionar el giro completo de la empresa, permitiendo automatizar todo lo referente al control físico del almacén, además de la generación de sus respectivos asientos contables",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "El módulo inicia las operaciones de logística con las solicitudes de compra de cada área de la empresa, las mismas pueden pasar por una etapa de aprobación antes de atenderlas.",
+
+            "El módulo consolida las solicitudes y permite realizar ofertas de compras hacia los proveedores; Se envía un formato al proveedor para que luego los mismos lo devuelvan cotizados y con las condiciones requeridas.",
+
+            "Una vez ingresado en el sistema los precios cotizados el personal de logística pueden obtener cuadros comparativos de varios proveedores.",
+
+            "El módulo puede consolidar las solicitudes pendientes generando varias órdenes de compra; la orden de compra puede pasar por una etapa de aprobación antes de entregarla al proveedor.",
+
+            "El departamento de almacén recepciona la orden de compra registrando el ingreso de existencias referenciado el número de orden de compra para llevar un control de los pendientes de atención.por parte del proveedor, dicha compra alimenta inmediatamente el stock del almacén, quedando para los despachos de venta.",
+
+            "El departamento de contabilidad recepciona el ingreso de existencias, convirtiendo la operación en asiento contable y alimentando la cartera de cuentas por pagar ",
+
+            "El módulo de importación permite el ingreso de los costos adicionales "
+        ]
+    },
+    "item3": {
+        "title"      : "Contabilidad",
+        "img"        : "./src/img/productos/contabilidad.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El software de contabilidad ha sido diseñado pensando en las necesidades actuales del mercado y los requerimientos de rapidez de registro, totalmente.",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "Actualiza tipo de cambio en automático desde la web de SUNAT.•Actualiza socios de negocios en automático desde la web de SUNAT.•Actualización de socios de negocios con el padrón de no habidos de SUNAT.",
+            "Alerta de vencimiento de obligaciones tributarias.",
+            "Permite el registro de comprobantes mediante plantillas de contabilización, esta nueva opción permitirá crear la dinámica contable para ingresar asientos tipo(Planillas, depreciación, etc.).",
+            "Centro de costos - dimensiones, clasifica los centros de costos en una estructura jerárquica.",
+            "Importación de compras, ventas, diario desde formato de Excel",
+            "Cancelación automática en las provisiones de compras, ventas y honorarios.",
+            "Proceso de automático de regularización por diferencia de cambio y ajuste por diferencia de cambio NIC 21.",
+            "Reporte de presupuesto proyectado vs ejecutado.",
+            "Emite todos los libros y registros contables oficiales según requerimientos de SUNAT.",
+            "Interfase con Sunat, genera todos los libros y registros electrónicos con la última versión del PLE de SUNAT.",
+            "Proceso de conciliación bancaria de forma amigable y sencilla."
+        ]
+    },
+    "item4": {
+        "title"      : "Finanzas",
+        "img"        : "./src/img/productos/finanzas.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El módulo de finanzas (Gestión de bancos) permite controlar todas las obligaciones pendientes por pagar y por cobrar, desde el ingreso del documento hasta su posterior cancelación.Con CIGE, Usted puede obtener una visión general y actualizada en línea, obteniendo beneficios de negocio desde el primer momento.",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "Permite la cancelación masiva de cuentas por cobrar (Clientes) y cuentas por pagar (Acreedores) mediante diversos medios de pago.",
+
+            "Programaciones de pago, permite realizar programaciones masivas de las obligaciones por pagar, considerando un control de aprobación y ejecución, los cuales pueden ser cancelados por cualquier medio de pago.",
+
+            "Permite la generación de archivos en formato txt, para los pagos masivos de acreedotes y detracciones.",
+
+            "Gestión de Bancos - Rendiciones. - El sistema realiza los siguientes pasos para la generación de rendición de cuentas y fondo fijo:",
+
+            "Generación.- realiza la solicitud de rendición.",
+
+            "Ejecución.- realiza el desembolso de la rendición (pago).",
+
+            "Conciliación.- realiza la provisión de compras, honorarios o gastos varios para su posterior aplicación, todo ello en una misma ventana y en un solo proceso.",
+
+            "Gestión de Bancos - Caja. - El sistema permite el cuadre de caja generando un reporte de los movimiento de ingresos y egresos de caja.",
+
+            "Para las empresas designadas como agentes retenedoras, previa configuración, por cada pago se podrá realizar las retenciones a proveedores y emitir los certificados de retención automáticamente."
+        ]
+    },
+    "item5": {
+        "title"      : "Facturación",
+        "img"        : "./src/img/productos/facturacion.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El módulo de ventas facilita el proceso de facturación adecuandose a la mayoría de procesos de una empresa.",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "Actualiza socios de negocios en automático desde la web de Sunat.",
+            "El módulo inicia con una oferta de venta (cotización o pedido) los cuales serán despachados con guía de remisión y posteriormente facturados.",
+            " Permite el registro de operaciones gravadas, exoneradas, inafectas, de exportación y de anticipos",
+            "Al sistema CIGE se le añaden procesos para que preparen la información de los comprobantes electrónicos de pago siguiendo todas las normas e indicaciones de SUNAT.",
+            "CIGE Server convierte los datos de los comprobantes de pago en ficheros XML, siempre según la especificación de SUNAT, lo firma digitalmente y los envía a SUNAT para el registro y validación respectiva.",
+            "SUNAT acusa el recibo del XML respondiendo si la estructura de este es correcta.",
+            "CIGE Server genera un PDF en base al XML aprobado por SUNAT con el formato de impresión del comprobante y lo envía al cliente final por medios electrónicos.",
+            "Disminución de costo por factura emitida (papel/impresora/tinta/manipulación/envío).",
+            "Inmediatez en la entrega del comprobante de pago.",
+            "Inmediatez en la entrega del comprobante de pago.",
+            "Mayor seguridad en el envío electrónico."
+        ]
+    },
+    "item6": {
+        "title"      : "Analítica y reportes",
+        "img"        : "./src/img/productos/analitica.svg",
+        "alt"        : "Imagen de logistica",
+        "description": "El módulo de logística es una herramienta que sirve para administrar y gestionar el giro completo de la empresa, permitiendo automatizar todo lo referente al control físico del almacén, además de la generación de sus respectivos asientos contables.",
+        "video"      : "https://www.youtube.com/watch?v=U68MJz9DrI4",
+        "archive"    : "./src/archives/Cige.pdf",
+        "beneficios" : [
+            "Análisis - DRILL DOWN, estados financieros, libro mayor, centro de costos, socios de negocios, kardex.",
+            "Análisis avanzado mediante consultas que permiten revisar los saldos, visualizar los componentes de los saldos y llegar a consultar el detalle de los comprobantes contables de origen.",
+            "Permite exportar a Excel todos los reportes y consultas de los menús.",
+            "Permite el análisis por el método vertical y horizontal, este último se puede comparar entre meses o años.",
+            "Emite las notas a los estados financieros, pudiendo analizar a mayor detalle y en una sola ventana el estado de situación financiera y el estado de resultados.",
+            "Emite reportes de cheques girados por bancos y proveedores,seleccionando el rango de fechas."
+        ]
+    }
+}
